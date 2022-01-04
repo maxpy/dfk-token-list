@@ -345,5 +345,14 @@
     "name": "Wrapped Matic",
     "decimals": 18,
     "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=014"
-  }
+  },
+  
+  {
+    "chainId": 1666600000,
+    "address": "0x3dB1fd0Ad479A46216919758144FD15A21C3e93c",
+    "symbol": "DFKYELOWEGG",
+    "name": "Yellow Pet Egg",
+    "decimals": 0,
+  },
+  
 ]
