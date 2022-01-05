@@ -20,7 +20,8 @@
     "address": "0x3a4EDcf3312f44EF027acfd8c21382a5259936e7",
     "symbol": "DFKGOLD",
     "name": "Gold",
-    "decimals": 3
+    "decimals": 3,
+    "logoURI": "https://dfktracker.app/_next/static/media/dfkgold-icon.ce640fd9.png"
   },
   {
     "chainId": 1666600000,
